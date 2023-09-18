@@ -1,6 +1,13 @@
 # Projeto Integrador
-Tela Inicial de Cadastro:
-Primeiro acesso feito por admisnistrador.
+O primeira tela do sistema a ser exibida é a tela de login:
+![00-Tela de logi _ cadastro](https://github.com/acostaamanda/PI_SENAC_ADS/assets/144863820/8017c07a-9dee-48d8-961d-7cfd4440af3a)
+
+Essa tela, possui três possiblidades
+
+
+
+
+Primeiro acesso feito por administrador.
 ![image](https://github.com/acostaamanda/PI_SENAC_ADS/assets/144863820/1f2790c2-a71f-4499-b509-4a2aab27f0da)
 
 Nessa tela será possivel escolher, em qual ambiente de cadastro o usuário deseja acessar.
