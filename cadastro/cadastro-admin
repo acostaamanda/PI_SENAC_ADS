@@ -1,0 +1,33 @@
+# Cadastro do ADMIN
+
+## Navbar
+![Universidade](icon.png) Universidade
+
+## Tipo de Cadastro
+- Tipo de Cadastro: [Pessoa Física / Pessoa Jurídica](#)
+  - Escolha entre: [Pessoa Física](#pessoa-fisica) | [Pessoa Jurídica](#pessoa-juridica)
+
+## Dados Pessoais
+- Nome: [__________]
+- CPF: [__________]
+- CTPS: [__________]
+
+## Endereço
+- Logradouro: [__________]
+- Número: [__________]
+- CEP: [__________]
+- Complemento: [__________]
+
+## Dados Bancários
+- Banco: [__________]
+- Agência: [__________]
+- Conta Corrente: [__________]
+- Dígito da Conta Corrente: [___]
+
+## Para Pessoa Jurídica
+### Dados Adicionais
+- CNPJ: [__________]
+- Razão Social: [__________]
+
+[Botão de Cadastro](#) (Cinza)
+
